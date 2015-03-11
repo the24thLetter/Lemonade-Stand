@@ -13,6 +13,33 @@
 		483969E31AAB8EB600BAD314 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 483969E21AAB8EB600BAD314 /* Images.xcassets */; };
 		483969E61AAB8EB600BAD314 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 483969E41AAB8EB600BAD314 /* LaunchScreen.xib */; };
 		483969F21AAB8EB600BAD314 /* Lemonade_StandTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 483969F11AAB8EB600BAD314 /* Lemonade_StandTests.swift */; };
+		48396A071AAB8F5300BAD314 /* coin-512.png in Resources */ = {isa = PBXBuildFile; fileRef = 483969FB1AAB8F5300BAD314 /* coin-512.png */; };
+		48396A081AAB8F5300BAD314 /* freshlemonade.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 483969FC1AAB8F5300BAD314 /* freshlemonade.jpg */; };
+		48396A091AAB8F5300BAD314 /* Ice_Block_Pin.png in Resources */ = {isa = PBXBuildFile; fileRef = 483969FD1AAB8F5300BAD314 /* Ice_Block_Pin.png */; };
+		48396A0A1AAB8F5300BAD314 /* Lemon.png in Resources */ = {isa = PBXBuildFile; fileRef = 483969FE1AAB8F5300BAD314 /* Lemon.png */; };
+		48396A0B1AAB8F5300BAD314 /* lemonade-hi.png in Resources */ = {isa = PBXBuildFile; fileRef = 483969FF1AAB8F5300BAD314 /* lemonade-hi.png */; };
+		48396A0C1AAB8F5300BAD314 /* lemonadestand.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 48396A001AAB8F5300BAD314 /* lemonadestand.jpg */; };
+		48396A0D1AAB8F5300BAD314 /* money_icon.png in Resources */ = {isa = PBXBuildFile; fileRef = 48396A011AAB8F5300BAD314 /* money_icon.png */; };
+		48396A0E1AAB8F5300BAD314 /* money-512.png in Resources */ = {isa = PBXBuildFile; fileRef = 48396A021AAB8F5300BAD314 /* money-512.png */; };
+		48396A0F1AAB8F5300BAD314 /* Money-Icon.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 48396A031AAB8F5300BAD314 /* Money-Icon.jpg */; };
+		48396A101AAB8F5300BAD314 /* money.png in Resources */ = {isa = PBXBuildFile; fileRef = 48396A041AAB8F5300BAD314 /* money.png */; };
+		48396A111AAB8F5300BAD314 /* sun_icon.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 48396A051AAB8F5300BAD314 /* sun_icon.jpg */; };
+		48396A121AAB8F5300BAD314 /* sunny_256.png in Resources */ = {isa = PBXBuildFile; fileRef = 48396A061AAB8F5300BAD314 /* sunny_256.png */; };
+		48396A141AABCA3F00BAD314 /* man-running-silhouette-image-8.png in Resources */ = {isa = PBXBuildFile; fileRef = 48396A131AABCA3F00BAD314 /* man-running-silhouette-image-8.png */; };
+		48396A161AABF07F00BAD314 /* Customer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 48396A151AABF07F00BAD314 /* Customer.swift */; };
+		48396A181AABF15400BAD314 /* LemonadeStandBrain.swift in Sources */ = {isa = PBXBuildFile; fileRef = 48396A171AABF15400BAD314 /* LemonadeStandBrain.swift */; };
+		48396A241AAC060900BAD314 /* Alexis.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 48396A1A1AAC060900BAD314 /* Alexis.jpg */; };
+		48396A251AAC060900BAD314 /* Chase.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 48396A1B1AAC060900BAD314 /* Chase.jpg */; };
+		48396A261AAC060900BAD314 /* Clarence.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 48396A1C1AAC060900BAD314 /* Clarence.jpg */; };
+		48396A271AAC060900BAD314 /* Eric.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 48396A1D1AAC060900BAD314 /* Eric.jpg */; };
+		48396A281AAC060900BAD314 /* Israel.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 48396A1E1AAC060900BAD314 /* Israel.jpg */; };
+		48396A291AAC060900BAD314 /* Kristin.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 48396A1F1AAC060900BAD314 /* Kristin.jpg */; };
+		48396A2A1AAC060900BAD314 /* Marcell.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 48396A201AAC060900BAD314 /* Marcell.jpg */; };
+		48396A2B1AAC060900BAD314 /* Norma.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 48396A211AAC060900BAD314 /* Norma.jpg */; };
+		48396A2C1AAC060900BAD314 /* Sarah.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 48396A221AAC060900BAD314 /* Sarah.jpg */; };
+		48396A2D1AAC060900BAD314 /* Xavier.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 48396A231AAC060900BAD314 /* Xavier.jpg */; };
+		48396A2F1AAD3DEC00BAD314 /* LaunchIcon.png in Resources */ = {isa = PBXBuildFile; fileRef = 48396A2E1AAD3DEC00BAD314 /* LaunchIcon.png */; };
+		48396A311AAF8A5B00BAD314 /* ViewController2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 48396A301AAF8A5B00BAD314 /* ViewController2.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +63,33 @@
 		483969EB1AAB8EB600BAD314 /* Lemonade StandTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Lemonade StandTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		483969F01AAB8EB600BAD314 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		483969F11AAB8EB600BAD314 /* Lemonade_StandTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Lemonade_StandTests.swift; sourceTree = "<group>"; };
+		483969FB1AAB8F5300BAD314 /* coin-512.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "coin-512.png"; sourceTree = "<group>"; };
+		483969FC1AAB8F5300BAD314 /* freshlemonade.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = freshlemonade.jpg; sourceTree = "<group>"; };
+		483969FD1AAB8F5300BAD314 /* Ice_Block_Pin.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Ice_Block_Pin.png; sourceTree = "<group>"; };
+		483969FE1AAB8F5300BAD314 /* Lemon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Lemon.png; sourceTree = "<group>"; };
+		483969FF1AAB8F5300BAD314 /* lemonade-hi.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "lemonade-hi.png"; sourceTree = "<group>"; };
+		48396A001AAB8F5300BAD314 /* lemonadestand.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = lemonadestand.jpg; sourceTree = "<group>"; };
+		48396A011AAB8F5300BAD314 /* money_icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = money_icon.png; sourceTree = "<group>"; };
+		48396A021AAB8F5300BAD314 /* money-512.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "money-512.png"; sourceTree = "<group>"; };
+		48396A031AAB8F5300BAD314 /* Money-Icon.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Money-Icon.jpg"; sourceTree = "<group>"; };
+		48396A041AAB8F5300BAD314 /* money.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = money.png; sourceTree = "<group>"; };
+		48396A051AAB8F5300BAD314 /* sun_icon.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = sun_icon.jpg; sourceTree = "<group>"; };
+		48396A061AAB8F5300BAD314 /* sunny_256.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = sunny_256.png; sourceTree = "<group>"; };
+		48396A131AABCA3F00BAD314 /* man-running-silhouette-image-8.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "man-running-silhouette-image-8.png"; sourceTree = "<group>"; };
+		48396A151AABF07F00BAD314 /* Customer.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Customer.swift; sourceTree = "<group>"; };
+		48396A171AABF15400BAD314 /* LemonadeStandBrain.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LemonadeStandBrain.swift; sourceTree = "<group>"; };
+		48396A1A1AAC060900BAD314 /* Alexis.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Alexis.jpg; sourceTree = "<group>"; };
+		48396A1B1AAC060900BAD314 /* Chase.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Chase.jpg; sourceTree = "<group>"; };
+		48396A1C1AAC060900BAD314 /* Clarence.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Clarence.jpg; sourceTree = "<group>"; };
+		48396A1D1AAC060900BAD314 /* Eric.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Eric.jpg; sourceTree = "<group>"; };
+		48396A1E1AAC060900BAD314 /* Israel.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Israel.jpg; sourceTree = "<group>"; };
+		48396A1F1AAC060900BAD314 /* Kristin.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Kristin.jpg; sourceTree = "<group>"; };
+		48396A201AAC060900BAD314 /* Marcell.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Marcell.jpg; sourceTree = "<group>"; };
+		48396A211AAC060900BAD314 /* Norma.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Norma.jpg; sourceTree = "<group>"; };
+		48396A221AAC060900BAD314 /* Sarah.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Sarah.jpg; sourceTree = "<group>"; };
+		48396A231AAC060900BAD314 /* Xavier.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Xavier.jpg; sourceTree = "<group>"; };
+		48396A2E1AAD3DEC00BAD314 /* LaunchIcon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = LaunchIcon.png; sourceTree = "<group>"; };
+		48396A301AAF8A5B00BAD314 /* ViewController2.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewController2.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,6 +133,9 @@
 			children = (
 				483969DB1AAB8EB600BAD314 /* AppDelegate.swift */,
 				483969DD1AAB8EB600BAD314 /* ViewController.swift */,
+				48396A301AAF8A5B00BAD314 /* ViewController2.swift */,
+				48396A151AABF07F00BAD314 /* Customer.swift */,
+				48396A171AABF15400BAD314 /* LemonadeStandBrain.swift */,
 				483969DF1AAB8EB600BAD314 /* Main.storyboard */,
 				483969E21AAB8EB600BAD314 /* Images.xcassets */,
 				483969E41AAB8EB600BAD314 /* LaunchScreen.xib */,
@@ -90,6 +147,21 @@
 		483969D91AAB8EB600BAD314 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				48396A191AAC060900BAD314 /* Customers */,
+				483969FC1AAB8F5300BAD314 /* freshlemonade.jpg */,
+				483969FB1AAB8F5300BAD314 /* coin-512.png */,
+				48396A2E1AAD3DEC00BAD314 /* LaunchIcon.png */,
+				483969FD1AAB8F5300BAD314 /* Ice_Block_Pin.png */,
+				483969FE1AAB8F5300BAD314 /* Lemon.png */,
+				483969FF1AAB8F5300BAD314 /* lemonade-hi.png */,
+				48396A001AAB8F5300BAD314 /* lemonadestand.jpg */,
+				48396A131AABCA3F00BAD314 /* man-running-silhouette-image-8.png */,
+				48396A011AAB8F5300BAD314 /* money_icon.png */,
+				48396A021AAB8F5300BAD314 /* money-512.png */,
+				48396A031AAB8F5300BAD314 /* Money-Icon.jpg */,
+				48396A041AAB8F5300BAD314 /* money.png */,
+				48396A051AAB8F5300BAD314 /* sun_icon.jpg */,
+				48396A061AAB8F5300BAD314 /* sunny_256.png */,
 				483969DA1AAB8EB600BAD314 /* Info.plist */,
 			);
 			name = "Supporting Files";
@@ -110,6 +182,23 @@
 				483969F01AAB8EB600BAD314 /* Info.plist */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		48396A191AAC060900BAD314 /* Customers */ = {
+			isa = PBXGroup;
+			children = (
+				48396A1A1AAC060900BAD314 /* Alexis.jpg */,
+				48396A1B1AAC060900BAD314 /* Chase.jpg */,
+				48396A1C1AAC060900BAD314 /* Clarence.jpg */,
+				48396A1D1AAC060900BAD314 /* Eric.jpg */,
+				48396A1E1AAC060900BAD314 /* Israel.jpg */,
+				48396A1F1AAC060900BAD314 /* Kristin.jpg */,
+				48396A201AAC060900BAD314 /* Marcell.jpg */,
+				48396A211AAC060900BAD314 /* Norma.jpg */,
+				48396A221AAC060900BAD314 /* Sarah.jpg */,
+				48396A231AAC060900BAD314 /* Xavier.jpg */,
+			);
+			path = Customers;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -192,9 +281,33 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				48396A0C1AAB8F5300BAD314 /* lemonadestand.jpg in Resources */,
+				48396A2A1AAC060900BAD314 /* Marcell.jpg in Resources */,
+				48396A0D1AAB8F5300BAD314 /* money_icon.png in Resources */,
+				48396A271AAC060900BAD314 /* Eric.jpg in Resources */,
+				48396A2C1AAC060900BAD314 /* Sarah.jpg in Resources */,
+				48396A2F1AAD3DEC00BAD314 /* LaunchIcon.png in Resources */,
+				48396A101AAB8F5300BAD314 /* money.png in Resources */,
+				48396A141AABCA3F00BAD314 /* man-running-silhouette-image-8.png in Resources */,
+				48396A0A1AAB8F5300BAD314 /* Lemon.png in Resources */,
 				483969E11AAB8EB600BAD314 /* Main.storyboard in Resources */,
+				48396A0E1AAB8F5300BAD314 /* money-512.png in Resources */,
+				48396A091AAB8F5300BAD314 /* Ice_Block_Pin.png in Resources */,
+				48396A071AAB8F5300BAD314 /* coin-512.png in Resources */,
+				48396A241AAC060900BAD314 /* Alexis.jpg in Resources */,
 				483969E61AAB8EB600BAD314 /* LaunchScreen.xib in Resources */,
+				48396A2B1AAC060900BAD314 /* Norma.jpg in Resources */,
+				48396A111AAB8F5300BAD314 /* sun_icon.jpg in Resources */,
+				48396A121AAB8F5300BAD314 /* sunny_256.png in Resources */,
+				48396A0B1AAB8F5300BAD314 /* lemonade-hi.png in Resources */,
+				48396A081AAB8F5300BAD314 /* freshlemonade.jpg in Resources */,
+				48396A291AAC060900BAD314 /* Kristin.jpg in Resources */,
+				48396A261AAC060900BAD314 /* Clarence.jpg in Resources */,
 				483969E31AAB8EB600BAD314 /* Images.xcassets in Resources */,
+				48396A251AAC060900BAD314 /* Chase.jpg in Resources */,
+				48396A281AAC060900BAD314 /* Israel.jpg in Resources */,
+				48396A2D1AAC060900BAD314 /* Xavier.jpg in Resources */,
+				48396A0F1AAB8F5300BAD314 /* Money-Icon.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -212,7 +325,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				48396A311AAF8A5B00BAD314 /* ViewController2.swift in Sources */,
+				48396A161AABF07F00BAD314 /* Customer.swift in Sources */,
 				483969DE1AAB8EB600BAD314 /* ViewController.swift in Sources */,
+				48396A181AABF15400BAD314 /* LemonadeStandBrain.swift in Sources */,
 				483969DC1AAB8EB600BAD314 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -407,6 +523,7 @@
 				483969F71AAB8EB600BAD314 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		483969F81AAB8EB600BAD314 /* Build configuration list for PBXNativeTarget "Lemonade StandTests" */ = {
 			isa = XCConfigurationList;
@@ -415,6 +532,7 @@
 				483969FA1AAB8EB600BAD314 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
