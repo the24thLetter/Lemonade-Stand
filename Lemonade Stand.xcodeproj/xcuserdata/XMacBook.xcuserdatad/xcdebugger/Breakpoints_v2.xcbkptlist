@@ -10,11 +10,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Lemonade Stand/ViewController.swift"
-            timestampString = "447729848.976118"
+            timestampString = "447733417.635447"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "82"
-            endingLineNumber = "82"
+            startingLineNumber = "87"
+            endingLineNumber = "87"
             landmarkName = "UpdateView()"
             landmarkType = "5">
          </BreakpointContent>

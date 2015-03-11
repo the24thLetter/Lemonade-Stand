@@ -66,11 +66,16 @@ class ViewController: UIViewController {
     
 
     override func viewDidAppear(animated: Bool) {
-        if ((moneyInv == 0 && (lemonInv == 0 || iceInv == 0)) || (moneyInv == 1 && lemonInv == 0)) {
+        if ((moneyInv == 0 && (lemonInv == 0 || iceInv == 0)) || (moneyInv == 1 && lemonInv == 0) || (moneyInv == 2 && lemonInv == 0 && iceInv == 0)) {
             showAlertWithText(header: "You Lose", message: "You ran out of money to proceed after serving " + "\(paidCustomers)" + " Customers. Resetting...")
             moneyInv = 10
             lemonInv = 1
             iceInv = 1
+            moneyInvInit = 10
+            lemonInvInit = 1
+            iceInvInit = 1
+            totalCustomers = 0
+            paidCustomers = 0
             UpdateView()
         }
     }
